@@ -1,14 +1,14 @@
 # Power BI Sales Insights Dashboard
 
+## Dashboard Preview
+
+![Sales Insights Dashboard](./sales-insights-dashboard.png)
+
 ## Project Overview
 
 This project analyzes sales and profitability for a hypothetical mid-size U.S. retailer selling Furniture, Office Supplies, and Technology products across four regions.
 
 The objective was to create a self-service Power BI dashboard that gives leadership a clear view of sales performance, profitability, seasonality, regional results, product performance, discounting, and customer segments.
-
-## Dashboard Preview
-
-![Sales Insights Dashboard](./sales-insights-dashboard.png)
 
 ## Key Performance Indicators
 
