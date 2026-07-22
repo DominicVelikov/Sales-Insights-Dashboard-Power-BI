@@ -8,7 +8,7 @@ The objective was to create a self-service Power BI dashboard that gives leaders
 
 ## Dashboard Preview
 
-![Sales-Insights-Dashboard---Power-BI-](images/sales-insights-dashboard.png)
+![Sales Insights Dashboard](./sales-insights-dashboard.png)
 
 ## Key Performance Indicators
 
