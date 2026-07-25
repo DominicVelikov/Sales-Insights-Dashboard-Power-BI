@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Sales Insights Dashboard](./sales-insights-dashboard.png)
+![Sales Insights Dashboard](./sales-insights-dashboard)
 
 ## Project Overview
 
